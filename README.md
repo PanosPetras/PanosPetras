@@ -2,7 +2,7 @@
 - ✍🏼 I know C/C++, C# and Kotlin
 - 👀 I’m interested in software development for desktop/mobile
 - 💞️ I’m looking to collaborate on anything that includes writing code
-- 🎓 Studying Computer Science at the National and Kapodistrian University of Athens
+- 🎓 Department of Informatics and Telecommunications, National and Kapodistrian University of Athens
 - 💼 Junior Software Engineer at Advanced Integrations Ltd.
 - 📫 Email: ppetrakopoulos2003@outlook.com
 
